@@ -1,5 +1,11 @@
 # @ice/shared-config
 
+## 1.1.0
+
+### Minor Changes
+
+- 50efd1ee: fix: modify import source
+
 ## 1.0.4
 
 ### Patch Changes
